@@ -4,7 +4,7 @@ title:  "The Thunder's New Challenge"
 date:   2015-10-05 18:24:13
 categories: thunder blue-white preseason
 author: Jonathan
-excerpt: "I can't think of a better word to describe both the charge and approach of OKC Thunder coach Billy Donovan. This team is established, the pecking orders are set, and the players know their roles. Scotty carved the game board and whittled the pieces..."
+excerpt: "Challenge. I can't think of a better word to describe both the charge and approach of OKC Thunder coach Billy Donovan. This team is established, the pecking orders are set, and the players know their roles. Scotty carved the game board and whittled the pieces..."
 ---
 ###Challenge.
 
