@@ -1,30 +1,50 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Thunder Op-Ed</title>
+    <description>Welcome to Thunder Op-Ed! Come back often or follow us on twitter  for content, thoughts, and ramblings on your Oklahoma City Thunder. This site is independent of the OKC Thunder organization and all views expressed are that of the author.
+</description>
+    <link>http://thunderoped.com/</link>
+    <atom:link href="http://thunderoped.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Oct 2015 06:21:43 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2015 06:21:43 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>The Thunder&#39;s New Challenge</title>
+        <description>&lt;h3 id=&quot;challenge&quot;&gt;Challenge.&lt;/h3&gt;
+
+&lt;p&gt;I can’t think of a better word to describe both the charge and approach of OKC Thunder coach Billy Donovan. This team is established, the pecking orders are set, and the players know their roles. Scotty carved the game board and whittled the pieces, crafting with care despite all the noise. Now it’s Donovan’s turn to set the pieces to the board for maximum output.&lt;/p&gt;
+
+&lt;p&gt;Since the last day of April coach Donovan has been watching film. Who goes where and why? How to learn from how Brooks utilized his assets and how to grow from there. All the soundbites suggest the Thunder’s new coach didn’t arrive with any preconceived notions and believed his first job was to learn about his new team. From what we saw at the first public appearance of the 2015-16 Thunder, I’m inclined to believe no smoke had been blown. At the annual Blue and White Scrimmage, based on the limited quotes and video clips available, two of the most quoted lines coming from the Thunder and Donovan over the past few months are what stood out the most: A focus on spacing and schemes that maximize unique player strengths.&lt;/p&gt;
+
+&lt;p&gt;When Billy Donovan says Dion Waiters has underrated passing abilities and the box score says Dion Waiters led the game with 8 assists it appears he might be on to something. When the Thunder are seen running this play I’m sold.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-video&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Watch: Highlight from the Blue &amp;amp; White: Westbrook to Collison to Durant to Zanna. &lt;a href=&quot;http://t.co/krEneZBjCP&quot;&gt;pic.twitter.com/krEneZBjCP&lt;/a&gt;&lt;/p&gt;&amp;mdash; OKC THUNDER (@okcthunder) &lt;a href=&quot;https://twitter.com/okcthunder/status/650813679361875968&quot;&gt;October 4, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;And yet to be fair, it’s beyond early to make any lasting assumptions, and the last defensive domino to fall on that play featured Enes Kanter in quicksand. Anyone could say what works for Durant won’t work for Singler, as Donovan has previously, but when newly drafted Cameron Payne causally flips the ball into the hands of 3-point specialist Steve Novak for a game winning buzzer beater it shows not only the coach’s understanding of everyone involved but a willingness of the players to trust the play. A scrimmage is a scrimmage. The lights, sounds, and pressure of an NBA game change everything, but the future looks promising.&lt;/p&gt;
+
+&lt;p&gt;This team is stacked, and expectations are always sky high. The national media will scream about a ‘closing window’, as they have for three seasons. Westbrook will still shoot the ball amidst continued rumblings that this simply detracts from Durant’s greatness. Durant free agency noise will reach fever pitch, but one challenge standing before the Thunder is a different kind of challenge.&lt;/p&gt;
+
+&lt;p&gt;This year wasn’t Team-KD versus Team-Russ as it was in years past. It was starters versus the bench. The individual greatness and leadership is now in hand, so cohesion has its chance to step forward. It’s what GM Sam Presti saw in the chance to hire Donovan, and it’s now Donovan’s job to see it through. This challenge isn’t one the Thunder face, but an opportunity they now possess.&lt;/p&gt;
+
+&lt;p&gt;Now, Steven Adams, get better man…&lt;/p&gt;
+
+&lt;p&gt;Check back soon for 2015-2016 season previews!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 18:24:13 +0000</pubDate>
+        <link>http://thunderoped.com/10-05-2015/thunders-new-challenge</link>
+        <guid isPermaLink="true">http://thunderoped.com/10-05-2015/thunders-new-challenge</guid>
+        
+        
+        <category>thunder</category>
+        
+        <category>blue-white</category>
+        
+        <category>preseason</category>
+        
       </item>
-    {% endfor %}
+    
   </channel>
 </rss>
