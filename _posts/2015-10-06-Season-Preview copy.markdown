@@ -13,7 +13,7 @@ The most exciting thing that happened for the Thunder this offseason was Kevin D
 
 If his preseason interviews have been any indication, Durant fully expects to return to his MVP winning caliber play. The free agency rumors will be ridiculous and we should all just settle in and get used to them. If Durant’s spat with Stephen A Smith is any indication, Durant is fired up, angry, and still not nice.
 
-<img src="/content/2015-10-6/kdnotnice.jpg" alt="KD Is Not Nice: Property of Nike" style="margin-left:25%;width:50%;"/>
+<img src="/content/2015-10-6/kdnotnice.jpg" alt="KD Is Not Nice: Property of Nike" title="KD Is Not Nice: Property of Nike" style="margin-left:25%;width:50%;"/>
 
 In addition to getting an MVP back to full health, the Thunder made coaching changes as well. Gone are the days of Scotty Brooks and the countless radio call-ins claiming a new coach would be the saving grace of Oklahoma City basketball. We will find out this year under the newly hired helm of Billy Donovan. Coach Donovan has long been a favorite among college coaches expected to make the jump to the pros. He attempted it one time getting hired by the Orlando Magic, but quickly changed his mind and returned to the University of Florida. The man has a great track record of winning. He has accomplished nearly everything in the amateur game and expects to do the same in the NBA. His coaching and system have put a number of players into the Association and many of them have had success. 
 
@@ -29,6 +29,6 @@ The second unit will be more than serviceable when the starters need a breather.
 
 The season is near. Get up. Get loud. Get excited.
 
-<div style="width:500px;margin:0 auto;"><iframe src="https://player.vimeo.com/video/118779084" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/118779084">Thunder FourFive Seconds from Wildin&#039;</a> from <a href="https://vimeo.com/user20201612">Jason Gallagher</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+<div style="max-width:500px;margin:0 auto;"><iframe src="https://player.vimeo.com/video/118779084" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/118779084">Thunder FourFive Seconds from Wildin&#039;</a> from <a href="https://vimeo.com/user20201612">Jason Gallagher</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
-<img src="/content/2015-10-6/collison-adams.jpg" alt="Bro Trip (source Instagram)" style="width:100%;"/>
+<img src="/content/2015-10-6/collison-adams.jpg" alt="Bro Trip (source Instagram)" title="Bro Trip (source Instagram)" style="width:100%;"/>
