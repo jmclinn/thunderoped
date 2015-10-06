@@ -246,6 +246,7 @@ a {
 
 	 /* Jonathan's additions */
 
-	 .site-header{border-top:5px solid #fff;}
+	 .site-header{border-top:5px solid #fff;border-bottom:1px solid #FDBB30;}
+	 .site-footer{border-top:1px solid #FDBB30;}
 	 body{background:#fff;color:#002D62;}
 	 a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
