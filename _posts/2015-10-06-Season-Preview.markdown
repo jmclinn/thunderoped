@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "2015-16 Season Preview"
+date:   2015-10-06 17:15:11
+categories: thunder preseason preview
+author: Trey
+excerpt: "There were some huge changes this offseason that will have profound impacts on the future of basketball in Oklahoma City. There were changes at the top of the coaching staff along with an unfortunate amount of physical therapy and surgeries. But the future is bright again in Oklahoma City – and it is not just from the absolute star that Russell Westbrook has grown into..."
+---
+
+There were some huge changes this offseason that will have profound impacts on the future of basketball in Oklahoma City. There were changes at the top of the coaching staff along with an unfortunate amount of physical therapy and surgeries. But the future is bright again in Oklahoma City – and it is not just from the absolute star that Russell Westbrook has grown into.
+
+The most exciting thing that happened for the Thunder this offseason was Kevin Durant receiving a clean bill of health and returning to regular basketball activities. With high expectations going into the 2014-2015 NBA season, Durant and Oklahoma City received terrible news. He would be diagnosed with a Jones’ fracture. He was initially expected to miss 6-8 weeks but this injury is tricky and Durant was shut down midway through the season, only appearing in 27 games that also included a nasty ankle sprain. Durant has had nearly a full season off and this could be a good thing. He has had a year of rest and rehab and should be back to his old Durant form. Even in limited action last season he averaged 25.4 ppg on 51% shooting while pulling down 6.6 rpg and dishing out 4.1 apg. 
+
+If his preseason interviews have been any indication, Durant fully expects to return to his MVP winning caliber play. The free agency rumors will be ridiculous and we should all just settle in and get used to them. If Durant’s spat with Stephen A Smith is any indication, Durant is fired up, angry, and still not nice.
+
+<img src="/content/2015-10-6/kdnotnice.jpg" alt="KD Is Not Nice: Property of Nike" style="margin-left:25%;width:50%;"/>
+
+In addition to getting an MVP back to full health, the Thunder made coaching changes as well. Gone are the days of Scotty Brooks and the countless radio call-ins claiming a new coach would be the saving grace of Oklahoma City basketball. We will find out this year under the newly hired helm of Billy Donovan. Coach Donovan has long been a favorite among college coaches expected to make the jump to the pros. He attempted it one time getting hired by the Orlando Magic, but quickly changed his mind and returned to the University of Florida. The man has a great track record of winning. He has accomplished nearly everything in the amateur game and expects to do the same in the NBA. His coaching and system have put a number of players into the Association and many of them have had success. 
+
+Donovan brings significant change to the thunder offensive scheme. Durant will spend less time on the ball running pick-and-rolls. The scheme relies on spacing and ball movement – seemingly the opposite of the Brooks system. This change will take pressure off of both Westbrook and Durant. The spacing should help our high number of jump shooters and should prove to be fun to watch. Durant will get more open jump shots and Enes Kanter and Serge Ibaka should continue to show off their mid-range touch. The most excited player about the change might be Anthony Morrow. He was absolutely fire from 3-pt range last season and should have even more space to operate this year (not that the fastest trigger in the West needs much space to get a shot off. 
+
+There will be some familiar faces on the sidelines with Donovan. Though they will not be the main face of the staff this year, the assistants Donovan and Thunder GM Sam Presti have assembled are quite impressive. He will have two former NBA head coaches on the bench with him to help adjust to the length of the NBA season. Monty Williams, fresh off of a playoff season in New Orleans, will make the move to Oklahoma City and slide down the bench a spot. There is a familiar face to Thunder fans as well as Maurice Cheeks joins the Thunder staff for a second time. Many of us remember Cheeks being on the bench under Scotty Brooks when Oklahoma City won the Western Conference Finals and played the Miami Heat in the NBA Finals. The two Thunder assistants have combined to win 478 NBA games. There is another former college coach making the jump to the NBA too as OKC welcomes Anthony Grant to the bench. Grant was formerly a head coach at the University of Alabama and Virginia Commonwealth University. The Thunder also welcomes back Royal Ivey who played in Oklahoma City from 2010-2012, and in 2014 on a 10-day contract. Ivey was a member of the NBA Finals team.   
+
+Finally, Russell Westbrook proved to the rest of the league last year what Oklahoma City already knew. He is a true superstar. Westbrook and Durant give the Thunder two of the top five NBA players in the same starting line-up. Many people will talk about how they will be unable to co-exist. “Russell is too ball dominant. He does not understand he is not the star.” Those people are wrong. Westbrook is a playmaker and has to have the ball in his hands to do that. Sure, he sometimes gets tunnel vision, but we all saw last year that he is capable of going 1-on-5 and making special things happen. Throw Durant on the court and things open up even more.
+
+This is going to be a fun season for all Oklahoma City fans. This is the deepest roster assembled to play at the ‘Peake. There is a new coach eager to prove he belongs. We have an MVP returning who wants his name back in the discussion for best player in the Association, and a point guard who is absolutely terrifying when he is pursuing a goal. Steven Adams and Serge Ibaka will protect the paint while Andre Roberson harasses other guards on the wings. 
+
+The second unit will be more than serviceable when the starters need a breather. Kyle Singler looks to regain his long distance form while Dion Waiters will continue to create. DJ Augustin will put the second unit guys into positions to succeed. Nick Collison and Steve Novak, with shrinking minutes but increasing locker room rolls will provide tutelage for the young guys Mitch McGary, Josh Heustis and Cameron Payne. 
+
+The season is near. Get up. Get loud. Get excited.
+
+<div style="width:500px;margin:0 auto;"><iframe src="https://player.vimeo.com/video/118779084" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/118779084">Thunder FourFive Seconds from Wildin&#039;</a> from <a href="https://vimeo.com/user20201612">Jason Gallagher</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+
+<img src="/content/2015-10-6/collison-adams.jpg" alt="Bro Trip (source Instagram)" style="width:100%;"/>
