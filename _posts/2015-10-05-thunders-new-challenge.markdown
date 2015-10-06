@@ -14,7 +14,7 @@ Since the last day of April coach Donovan has been watching film. Who goes where
 
 When Billy Donovan says Dion Waiters has underrated passing abilities and the box score says Dion Waiters led the game with 8 assists it appears he might be on to something. When the Thunder are seen running this play I'm sold.
 
-<p><blockquote class="twitter-video" lang="en"><p lang="en" dir="ltr">Watch: Highlight from the Blue &amp; White: Westbrook to Collison to Durant to Zanna. <a href="http://t.co/krEneZBjCP">pic.twitter.com/krEneZBjCP</a></p>&mdash; OKC THUNDER (@okcthunder) <a href="https://twitter.com/okcthunder/status/650813679361875968">October 4, 2015</a></blockquote></p>
+<blockquote class="twitter-video" lang="en"><p lang="en" dir="ltr">Watch: Highlight from the Blue &amp; White: Westbrook to Collison to Durant to Zanna. <a href="http://t.co/krEneZBjCP">pic.twitter.com/krEneZBjCP</a></p>&mdash; OKC THUNDER (@okcthunder) <a href="https://twitter.com/okcthunder/status/650813679361875968">October 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
