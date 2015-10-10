@@ -12,13 +12,13 @@ The Steven Adams - Nick Collison summer bromance continued two days ago when the
 
 If you've ever encuntered any of the guys on the team in real life they aren't the shortest people in the crowd, but some people are taller than others. Nick Gallo is looking short already, and it doesn't help when Adams appears to be sitting in a high chair that doesn't quite fit.
 
-<img src="/content/2015-10-09/8.jpg" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/8.jpg" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 ### Hair v Hair
 
 Steve's hair is always good for a discussion, but with Nick Collison there for comparison the Kiwi deferred to the elder statesman when asked "Who has the better hair?".
 
-<img src="/content/2015-10-09/2.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/2.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 Adams: The classic comb-over. Tell them about your comb in the bathroom.
 
@@ -30,29 +30,29 @@ Adams: No, his is absolutely classic. Mine is just messy and gross. All over the
 
 I don't know what fascinated me about this, but Adams makes it great. In comparison to him it looks absurdly small, and based on his reaction I'm not quite sure he's supposed to be drinking it on camera.
 
-<img src="/content/2015-10-09/3.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/3.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 But nonetheless he keeps going back in.
 
-<img src="/content/2015-10-09/7.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/7.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 ### Receiving Praise
 
 When Collison says Adams is "going to be really good" and that he's already "good now" Adams has to cool off his blushing.
 
-<img src="/content/2015-10-09/4.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/4.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 He got so flustered he had to be reminded where the camera was.
 
-<img src="/content/2015-10-09/5.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/5.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 ### Stealing the Show
 
 Nick Collison is a smart dude with insightful answers, but what are you supposed to do when this guy is next to you?
 
-<img src="/content/2015-10-09/1.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/1.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
-<img src="/content/2015-10-09/9.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/9.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
 
 Calm and collected isn't Adams' style unless he's getting under an opposing player's skin on the court. This series of photos all took place within about 10 seconds of each other.
 
