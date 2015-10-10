@@ -82,4 +82,4 @@ You always hear Russell Westbrook is a really goofy dude, but Adams never hides 
 
 Good to have Steven back on the floor, and here's to more laughs and bone-crushing screens.
 
-<img src="/content/2015-10-09/10.gif" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/content/2015-10-09/10.gif" style="display:block;margin:0 auto;width:500px;max-width:100%;" />
