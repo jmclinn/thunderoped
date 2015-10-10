@@ -58,11 +58,11 @@ Calm and collected isn't Adams' style unless he's getting under an opposing play
 
 <img src="/content/2015-10-09/6.jpg" style="display:block;margin:0 auto;width:95%;" />
 
-I'm very curious to know who was off to Adam's right.
+I'm very curious to know who was off to Adams' right.
 
 ### Never-Ending Quotes
 
-Ever since Adams <a src="http://newsok.com/article/5376283" target="_blank">relayed</a> his welcome to the NBA moment involving Perkins a.k.a "The Only Silverback", you have to be on quote and story alert. The man never fails to disappoint.
+Ever since Adams <a href="http://newsok.com/article/5376283" target="_blank">relayed</a> his welcome to the NBA moment involving Perkins a.k.a "The Only Silverback", you have to be on quote and story alert. The man never fails to disappoint.
 
 (on the new coaching staff)
 
