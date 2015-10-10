@@ -68,7 +68,7 @@ Ever since Adams <a href="http://newsok.com/article/5376283" target="_blank">rel
 
 Adams: One thing that stuck out is Monty's family. He's got a large offspring. Just a lot of kids.
 
-(on Adam's Castaway Halloween costume)
+(on Adams' Castaway Halloween costume)
 
 Collison: You had a FedEx box, and didn't you pack sandwiches in the box that you could eat throughout the night?
 
