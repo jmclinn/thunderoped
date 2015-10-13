@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   
   <!--Open Graph -->
@@ -18,7 +18,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="article" />
   <!--<meta property="og:url" content="http://thunderoped.com{{ page.url | remove: '/' }}" />-->
-  <meta property="og:url" content="http://thunderoped.com{{ page.url }}" />
+  <meta property="og:url" content="http://thunderoped.com{{ "/" | prepend: page.url }}" />
   <meta property="og:image:secure_url" content="https://storage.googleapis.com/thunderoped/logo.png" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image:type" content="image/png"/>
