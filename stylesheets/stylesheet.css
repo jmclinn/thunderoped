@@ -250,4 +250,4 @@ a {
 	 .site-footer{border-top:1px solid #FDBB30;}
 	 body{background:#fff;color:#002D62;}
 	 a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
-	 .tagline{color:#007DC3;font-size:0.9rem;text-align:center;}
+	 .tagline,h6{color:#007DC3;font-size:0.9rem;text-align:center;}
