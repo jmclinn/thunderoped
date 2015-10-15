@@ -6,7 +6,7 @@ permalink: /roster/
 
 <img src="/content/roster/steven-adams.jpg" style="width:48%;display:inline;float:left;margin:10px 1%;"/>
 
-<img src="/content/roster/dj-augustin.jpg" style="width:48%;display:inline;float:left;margin-left:10px 1%;"/>
+<img src="/content/roster/dj-augustin.jpg" style="width:48%;display:inline;float:left;margin:10px 1%;"/>
 
 <img src="/content/roster/nick-collison.jpg" style="width:48%;display:inline;float:left;margin:10px 1%;"/>
 
