@@ -7,7 +7,7 @@ author: Ryan
 excerpt: "Enes Kanter is coming off of his best season yet in the NBA, one that was split between the Utah Jazz and the Thunder. Kanter became a member of the thunder after Sam Presti pulled the trigger on a blockbuster deal that also landed the Thunder D.J, Augustin, Kyle Singler and Steve Novak. He jumped right into his new role in Oklahoma City, and now is here to stay after signing a monster 4-year contract..."
 ---
 
-(1)
+<img src="/content/2015-10-15/1.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Sue Ogrocki - Associated Press</p>
 
@@ -19,7 +19,7 @@ Here are a few things to look for with Kanter this year:
 
 ### Post scoring
 
-(2)
+<img src="/content/2015-10-15/2.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Mark D. Smith – USA TODAY Sports</p>
 
@@ -31,7 +31,7 @@ Another great thing about Kanter’s post scoring is that it takes some of the o
 
 ### Rebounding
 
-(3)
+<img src="/content/2015-10-15/3.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Mark J. Terrill – Associated Press</p>
 
@@ -43,7 +43,7 @@ Kanter is one of the better rebounders the Thunder has had, so look for him to c
 
 ### Defense
 
-(4)
+<img src="/content/2015-10-15/4.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Mark D. Smith – USA TODAY Sports</p>
 
@@ -53,7 +53,7 @@ It’s hard to say what the primary cause of this, but after watching him play, 
 
 If Kanter can improve defensively, there’s really nothing keeping him from being one of the best centers in the league. That’s a big if, but only time will tell what improvements he is able to make.
 
-(5)
+<img src="/content/2015-10-15/5.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Russ Isabella – USA TODAY Sports</p>
 
