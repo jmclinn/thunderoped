@@ -7,10 +7,10 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
-  {% if page.type == "post" %}
+  <!--<link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url | append: '/' }}">-->
+  {% if page.author %}
   <link rel="canonical" href="http://thunderoped.com{{ "/" | prepend: page.url }}" />
-  {% elseif page.type == "page" %}
+  {% elsif page.permalink %}
   <link rel="canonical" href="http://thunderoped.com{{ page.permalink }}" />
   {% else %}
   <link rel="canonical" href="http://thunderoped.com" />
@@ -25,9 +25,9 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="article" />
   <!--<meta property="og:url" content="http://thunderoped.com{{ page.url | remove: '/' }}" />-->
-  {% if page.type == "post" %}
+  {% if page.author %}
   <meta property="og:url" content="http://thunderoped.com{{ "/" | prepend: page.url }}" />
-  {% elseif page.type == "page" %}
+  {% elsif page.permalink %}
   <meta property="og:url" content="http://thunderoped.com{{ page.permalink }}" />
   {% else %}
   <meta property="og:url" content="http://thunderoped.com" />
