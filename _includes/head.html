@@ -8,6 +8,13 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url | append: '/' }}">
+  {% if page.type == "post" %}
+  <link rel="canonical" href="http://thunderoped.com{{ "/" | prepend: page.url }}" />
+  {% elseif page.type == "page" %}
+  <link rel="canonical" href="http://thunderoped.com{{ page.permalink }}" />
+  {% else %}
+  <link rel="canonical" href="http://thunderoped.com" />
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   
   <!--Open Graph -->
@@ -18,7 +25,13 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="article" />
   <!--<meta property="og:url" content="http://thunderoped.com{{ page.url | remove: '/' }}" />-->
+  {% if page.type == "post" %}
   <meta property="og:url" content="http://thunderoped.com{{ "/" | prepend: page.url }}" />
+  {% elseif page.type == "page" %}
+  <meta property="og:url" content="http://thunderoped.com{{ page.permalink }}" />
+  {% else %}
+  <meta property="og:url" content="http://thunderoped.com" />
+  {% endif %}
   <meta property="og:image" content="https://storage.googleapis.com/thunderoped/logo1.jpg" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image:type" content="image/png"/>
