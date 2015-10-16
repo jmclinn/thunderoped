@@ -4,12 +4,12 @@ title:  "Mitch McGary Season Preview"
 date:   2015-10-14 19:00:00
 categories: mcgary preseason preview
 author: Trey
-excerpt: "Mitch McGary is entering his sophomore season in the NBA and will look to avoid a sophomore slump. He performed well in limited minutes and quickly became a fan favorite last season. His hustle is inspiring to anybody who has ever wanted to achieve a single thing in their life. The man is nothing short of a spark plug and does a lot of things effectively, and anything he cannot do he will attempt with full vigor..."
+excerpt: "Mitch McGary is entering his sophomore season in the NBA and will look to avoid a sophomore slump. He performed well in limited minutes and quickly became a fan favorite last season with his endless hustle. The man is nothing short of a spark plug and does a lot of things effectively, and anything he cannot do he will attempt with full vigor..."
 ---
 
 <img src="/content/2015-10-14/0.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-Mitch McGary is entering his sophomore season in the NBA and will look to avoid a sophomore slump. He performed well and quickly became a fan favorite last season. His hustle is inspiring to anybody who has ever wanted to achieve a single thing in their life. The man is nothing short of a spark plug and does a lot of things effectively, and anything he cannot do he will attempt with full vigor.
+Mitch McGary is entering his sophomore season in the NBA and will look to avoid a sophomore slump. He performed well and quickly became a fan favorite last season with his endless hustle. The man is nothing short of a spark plug and does a lot of things effectively, and anything he cannot do he will attempt with full vigor.
 
 In limited action last season – he only appeared in 32 games with 2 starts – he averaged 6.3 ppg, 5.2 rpg, and 0.4 apg in just over 15 minutes per game. For playing just a little over one quarter of the game, those are good returns. He makes a great change of pace big that has a different skill set than the rest of our guys. He prefers to play with his face to the basket and has shown flashes of brilliance in his passing game.
 
