@@ -252,8 +252,14 @@ body{background:#fff;color:#002D62;}
 a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
 .tagline{color:#007DC3;font-size:0.9rem;text-align:center;}
 
+/* schedule */
 .cal,.cal1{width:100%;position:relative;}
 .cal{overflow:hidden;margin-bottom:20px;}
 .cal1{display:block;}
 .cal0{width:14.28%;position:relative;float:left;}
 .cal2,.cal3{display:block;width:100%;position:absolute;}.cal2{top:10%;}.cal3{bottom:10%;}
+/* roster */
+.roster0,.roster1{border-bottom:1px solid #FDBB30;display:inline-block;position:relative;float:left;}
+.roster0{width:90%;}.roster1{text-align:right;color:#007DC3;width:10%;}
+.roster2{}
+.roster3{color:#F05133;}
