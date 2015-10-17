@@ -4,12 +4,12 @@ title:  "Steven Adams Season Preview"
 date:   2015-10-16 17:00:00
 categories: adams preseason preview
 author: Jonathan
-excerpt: "..."
+excerpt: "After the 2012-13 season there were no mysteries about what type of player the Thunder were going to draft. They had the 12th pick and they needed a big man. OKC fans were in the midst of screaming for Perkins' head, and no matter whether Presti listened or not (he didn't) there was no hiding the inevitable: Perkins was overpriced and didn't have any knees left. The Thunder needed a center for the future who could learn from Perk before he left town and who could dole out the same type of punishments. Enter Adams and his bone-crushing screens..."
 ---
 
-<img src="/content/2015-10-15/1.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
+<img src="/content/2015-10-16/0.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Sue Ogrocki - Associated Press</p>
+<p class="tagline">Mark D. Smith - USA TODAY Sports</p>
 
 After the 2012-13 season there were no mysteries about what type of player the Thunder were going to draft. They had the 12th pick and they needed a big man. OKC fans were in the midst of screaming for Perkins' head, and no matter whether Presti listened or not (he didn't) there was no hiding the inevitable: Perkins was overpriced and didn't have any knees left. The Thunder needed a center for the future who could learn from Perk before he left town and who could dole out the same type of punishments. Enter Adams and his bone-crushing screens.
 
@@ -19,11 +19,9 @@ Here are a few things to look for with Adams this year:
 
 ### Offense
 
-<img src="/content/2015-10-15/2.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
+<img src="/content/2015-10-16/3.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Mark D. Smith – USA TODAY Sports</p>
-
-- Don't need big number but is capable (Rookie season @DET 17 pts - 10 reb - 3 blk - 3 ast)
+<p class="tagline">Darren Abate – Associated Press</p>
 
 The potential has always been there for Adams. In only his fifth outing for the Thunder his rookie season he dropped 17 points and 10 rebounds on Detroit when facing another up and coming inside force, Andre Drummond. He also added 3 blocks, a steal, and 3 assists while shooting 70%. Adams is strong, and his size and rugby background have set him up perfectly for battling around the basket.
 
@@ -33,19 +31,19 @@ Adams isn't simply restricted to offensive rebounds though. He has been improvin
 
 ### Hands
 
-<img src="/content/2015-10-15/3.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
+<img src="/content/2015-10-16/2.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Mark J. Terrill – Associated Press</p>
+<p class="tagline">David Zalubowski – Associated Press</p>
 
 Big men in the NBA are often referred to by their hands. How do they catch passes, and how is their touch around the basket? Kendrick Perkins had 'bricks' for hands. Enes Kanter has 'soft' hands. Where does Adams fall? Somewhere in between probably. Considering his skillset and those of Westbrook and Durant, having 'soft' hands will be important as Adams continues to grow.
 
-In past has talked about practicing receiving rifle passes at his head to better prepare for working alongside Westbrook. Against the Mavs he caught one beautifully as Westbrook dumped it down to him under the basket, and then a few plays later it bounced off his hands out of bounds. Improving on consistency here could be a big plus for the Thunder.
+In the past Adams has talked about practicing receiving rifle passes at his head to better prepare for working alongside Westbrook. Against the Mavs he caught one beautifully as Westbrook dumped it down to him under the basket, and then a few plays later it bounced off his hands out of bounds. Improving on consistency here could be a big plus for the Thunder.
 
-Adams has a big scar running down the back of the hand he broke last season; a reminder of the glove he wore for a good chunk of games and the halted progress in his post catches and especially his free throw shooting. In the preseason, Adams' free throw shooting mechanics look improved, and he has mentioned free throw shooting as an area he worked on in the off season. It'll be interesting to see what difference it makes once there's a larger sample size to go off of. Adams could be a major asset at the end of games defensively if he isn't a liability with Hack-A-Kiwi.
+Adams has a scar running down the back of the hand he broke last season; a reminder of the glove he wore for a good chunk of games and the halted progress in his post catches and especially his free throw shooting. In the preseason, Adams' free throw shooting mechanics look improved, and he has mentioned free throw shooting as an area he worked on in the off season. It'll be interesting to see what difference it makes once there's a larger sample size to go off of. Adams could be a major asset at the end of games defensively if he isn't a liability with Hack-A-Kiwi.
 
 ### Opponent Aggravation
 
-<img src="/content/2015-10-15/4.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
+<img src="/content/2015-10-16/1.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Mark D. Smith – USA TODAY Sports</p>
 
@@ -55,8 +53,8 @@ His rookie season he tallied multiple opponent ejections for his efforts, but la
 
 If nothing else, it's an amusing piece of Adams' game and personality to follow, but there's a reason guys in the NBA trash talk. Adams may have perfected it without needing to open his mouth. What to watch for is when the refs will catch on.
 
-<img src="/content/2015-10-15/5.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
+<img src="/content/2015-10-6/collison-adams.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Russ Isabella – USA TODAY Sports</p>
+<p class="tagline">Steven Adams – Instagram</p>
 
-We know what Adams brings defensively, and there's no reason to think this has taken 
+We know what Adams brings defensively. There's only optimism in his development, and he's a hard worker with offensive potential as well. Include his budding friendship with Nick Collison, chronicled <a href="/2015-10-10-steven-adams-quotes/">here</a>, and there's a chance that his overall cerebral approach to the game builds as well.
