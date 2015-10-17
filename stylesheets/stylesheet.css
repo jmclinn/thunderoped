@@ -244,10 +244,14 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
-	 /* Jonathan's additions */
+/* Jonathan's additions */
 
-	 .site-header{border-top:5px solid #fff;border-bottom:1px solid #FDBB30;}
-	 .site-footer{border-top:1px solid #FDBB30;}
-	 body{background:#fff;color:#002D62;}
-	 a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
-	 .tagline{color:#007DC3;font-size:0.9rem;text-align:center;}
+.site-header{border-top:5px solid #fff;border-bottom:1px solid #FDBB30;}
+.site-footer{border-top:1px solid #FDBB30;}
+body{background:#fff;color:#002D62;}
+a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
+.tagline{color:#007DC3;font-size:0.9rem;text-align:center;}
+
+.cal,.cal1{width:100%;position:relative;}.cal{overflow:hidden;margin-bottom:20px;}
+.cal0{width:14.28%;position:relative;float:left;}
+.cal2,.cal3{width:100%;position:absolute;}.cal2{top:10%;}.cal3{bottom:10%;}

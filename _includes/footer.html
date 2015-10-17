@@ -67,3 +67,27 @@
   </div>
 
 </footer>
+{% if page.title == 'Schedule' %}
+<script>
+function gametime(e){
+	var away = 'away'+e;
+	var home = 'home'+e;
+	var time = 'time'+e;
+	var chan = 'chan'+e;
+	var el = document.getElementById(chan);
+	var vis = document.getElementById(chan).style.visibility;
+	if (vis == 'hidden'){
+		document.getElementById(time).style.visibility = 'visible';
+		document.getElementById(chan).style.visibility = 'visible';
+		document.getElementById(away).style.visibility = 'hidden';
+		document.getElementById(home).style.visibility = 'hidden';
+	}
+	else{
+		document.getElementById(away).style.visibility = 'visible';
+		document.getElementById(home).style.visibility = 'visible';
+		document.getElementById(time).style.visibility = 'hidden';
+		document.getElementById(chan).style.visibility = 'hidden';
+	}
+}
+</script>
+{% endif %}
