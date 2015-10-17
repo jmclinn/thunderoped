@@ -55,8 +55,8 @@ permalink: /schedule/
  	  <img id="away1{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home1{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
- 	  <img id="away1{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
-	  <img id="home1{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
+ 	  <img id="away1{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
+	  <img id="home1{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
 	  {% if game.time %}
 	  <img id="time1{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
@@ -91,8 +91,8 @@ permalink: /schedule/
  	  <img id="away2{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home2{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
- 	  <img id="away2{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
-	  <img id="home2{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
+ 	  <img id="away2{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
+	  <img id="home2{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
 	  {% if game.time %}
 	  <img id="time2{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
@@ -127,8 +127,8 @@ permalink: /schedule/
  	  <img id="away3{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home3{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
- 	  <img id="away3{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
-	  <img id="home3{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
+ 	  <img id="away3{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
+	  <img id="home3{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
 	  {% if game.time %}
 	  <img id="time3{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
@@ -163,8 +163,8 @@ permalink: /schedule/
  	  <img id="away4{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home4{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
- 	  <img id="away4{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
-	  <img id="home4{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
+ 	  <img id="away4{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
+	  <img id="home4{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
 	  {% if game.time %}
 	  <img id="time4{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
@@ -199,8 +199,8 @@ permalink: /schedule/
  	  <img id="away5{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home5{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
- 	  <img id="away5{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
-	  <img id="home5{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
+ 	  <img id="away5{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
+	  <img id="home5{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
 	  {% if game.time %}
 	  <img id="time5{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
@@ -235,8 +235,8 @@ permalink: /schedule/
  	  <img id="away6{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home6{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
- 	  <img id="away6{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
-	  <img id="home6{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
+ 	  <img id="away6{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
+	  <img id="home6{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
 	  {% if game.time %}
 	  <img id="time6{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
