@@ -114,7 +114,7 @@ permalink: /schedule/
 {% endfor %}
 </div>
 
-<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">JAN 2015</h3>
+<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">JAN 2016</h3>
 
 <div class="cal">
 {% for game in site.data.2015-16.4 %}
@@ -150,7 +150,7 @@ permalink: /schedule/
 {% endfor %}
 </div>
 
-<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">FEB 2015</h3>
+<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">FEB 2016</h3>
 
 <div class="cal">
 {% for game in site.data.2015-16.5 %}
@@ -186,7 +186,7 @@ permalink: /schedule/
 {% endfor %}
 </div>
 
-<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">MAR 2015</h3>
+<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">MAR 2016</h3>
 
 <div class="cal">
 {% for game in site.data.2015-16.6 %}
@@ -222,7 +222,7 @@ permalink: /schedule/
 {% endfor %}
 </div>
 
-<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">APR 2015</h3>
+<h3 style="border-bottom: 1px solid #FDBB30;color:#F05133;">APR 2016</h3>
 
 <div class="cal">
 {% for game in site.data.2015-16.7 %}
