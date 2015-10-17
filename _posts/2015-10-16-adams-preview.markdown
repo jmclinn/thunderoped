@@ -39,7 +39,7 @@ Big men in the NBA are often referred to by their hands. How do they catch passe
 
 In the past Adams has talked about practicing receiving rifle passes at his head to better prepare for working alongside Westbrook. Against the Mavs he caught one beautifully as Westbrook dumped it down to him under the basket, and then a few plays later it bounced off his hands out of bounds. Improving on consistency here could be a big plus for the Thunder.
 
-Adams has a scar running down the back of the hand he broke last season; a reminder of the glove he wore for a good chunk of games and the halted progress in his post catches and especially his free throw shooting (despite making the left one-hander seconds after braking his hand). In the preseason, Adams' free throw shooting mechanics look improved, and he has mentioned free throw shooting as an area he worked on in the offseason. It'll be interesting to see what difference it makes once there's a larger sample size to go off of. Adams could be a major asset at the end of games defensively if he isn't a liability with Hack-A-Kiwi.
+Adams has a scar running down the back of the hand he broke last season; a reminder of the glove he wore for a good chunk of games and the halted progress in his post catches and especially his free throw shooting (despite making the lefty, one-hander seconds after braking his hand). In the preseason, Adams' free throw shooting mechanics look improved, and he has mentioned free throw shooting as an area he worked on in the offseason. It'll be interesting to see what difference it makes once there's a larger sample size to go off of. Adams could be a major asset at the end of games defensively if he isn't a liability with Hack-A-Kiwi.
 
 ### Opponent Aggravation
 
