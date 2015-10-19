@@ -23,7 +23,7 @@ There is no question why Roberson is in the starting line up. It is his defense.
 
 <img src="/content/2015-10-19/roberson3.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">NBA Sports</p>
+<p class="tagline">NBC Sports</p>
 
 Roberson has shown regularly that he has the ability to finish around the rim. He does not regularly influence on the offensive end of the court, but he does, however, have the ability to slash to the basket when the opportunity presents itself. Roberson will not create often for himself, but he excels when the ball is passed around the perimeter and opposing defenders get lost or are constantly shifting. It creates lanes and openings for him to get into the paint. Motion and spacing is a key part of Coach Donovan's new offense, which could pay dividends for Roberson this season.
 
