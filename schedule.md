@@ -15,17 +15,23 @@ permalink: /schedule/
 	{% if game.team %}
 	<div class="cal0" onclick="gametime('0{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away0{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home0{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away0{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home0{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time0{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time0{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan0{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan0{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
