@@ -9,7 +9,7 @@ excerpt: "Notes and thoughts on the Nuggets preseason visit to the 'Peake..."
 
 #### DEN 98 - OKC 111
 
-No TV broadcast, but a complimentary onine stream? Sounds good to me.
+No TV broadcast, but a complimentary online stream? Sounds good to me.
 
 - The beginning of the game showed great movement and more comfort from the starters. Lots of Adams (even though he was still struggling to catch Westbrook passes at the beginning of the game), including a beautiful find of a cutting Westbrook.
 
