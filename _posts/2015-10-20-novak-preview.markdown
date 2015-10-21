@@ -15,7 +15,7 @@ Here are a few things to look for from Novak this season:
 
 <img src="/content/2015-10-20/1.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Russ Isabella-USA TODAY Sports</p>
+<p class="tagline">Russ Isabella - USA TODAY Sports</p>
 
 Shooting is as much rhythm as anything, and sitting on a bench for the majority of a game before being asked to come in and hit big shots is a trying task for anyone. This may just be the role Coach Donovan asks Novak to play this season, and as we saw the other night against Denver this could end up with a few airballs and bricks if Novak isn't completely dialed in. Playing time will be hard to come by on this team, so how ready will Novak be when his number is called?
 
@@ -31,7 +31,7 @@ Steven Novak as been around the league a few times. He helped Kanter with his tr
 
 <img src="/content/2015-10-20/3.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Russ Isabella-USA TODAY Sports</p>
+<p class="tagline">Russ Isabella - USA TODAY Sports</p>
 
 Sam Presti likes roster flexibility. He's put together an extremely balanced squad, but one thing is noticeably different going into this season: There's no empty roster spot. In years past the Thunder have entered the season with a 14 man roster, usually filling it near the end of the season plugging a gap as the teams gets ready for a deep playoff run. Novak would be the 15th man on the roster, and many expected him to be traded by this point. No one knows what Presti is planning, but it may not necessarily be to use Novak as a trade piece.
 
