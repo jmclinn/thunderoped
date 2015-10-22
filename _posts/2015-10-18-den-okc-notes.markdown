@@ -2,7 +2,7 @@
 layout: post
 title:  "Eyeball Test: Nuggets @ Thunder"
 date:   2015-10-18 20:45:00
-categories: thunder den preseason notes
+categories: [den,preseason,notes]
 author: Jonathan
 excerpt: "Notes and thoughts on the Nuggets preseason visit to the 'Peake..."
 ---

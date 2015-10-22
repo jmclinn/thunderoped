@@ -2,7 +2,7 @@
 layout: post
 title:  "2015-16 Season Preview"
 date:   2015-10-06 17:15:11
-categories: thunder preseason preview
+categories: [oped,preseason,preview]
 author: Trey
 excerpt: "There were some huge changes this offseason that will have profound impacts on the future of basketball in Oklahoma City. There were changes at the top of the coaching staff along with an unfortunate amount of physical therapy and surgeries. But the future is bright again in Oklahoma City – and it is not just from the absolute star that Russell Westbrook has grown into..."
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Eyeball Test: Mavericks @ Thunder"
 date:   2015-10-13 22:17:00
-categories: thunder mavs preseason notes
+categories: [dal,preseason,notes]
 author: Jonathan
 excerpt: "Notes and thoughts on the first preseason televised game of the preseason..."
 ---

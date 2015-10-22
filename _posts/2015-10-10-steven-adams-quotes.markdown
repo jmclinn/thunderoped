@@ -2,7 +2,7 @@
 layout: post
 title:  "Steven Adams: Quotes, Pics, and GIFs"
 date:   2015-10-10 01:17:00
-categories: thunder steven-adams nick-collison preseason
+categories: [adams,oped,comedy]
 author: Jonathan
 excerpt: "In honor of Steven Adams' return to the floor for his first preseason action here are some moments from his sitdown next to Nick Collison for a chat, and the big kiwi did not disappoint. Hightlights? Most definitely..."
 ---
