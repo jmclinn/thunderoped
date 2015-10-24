@@ -91,3 +91,16 @@ function gametime(e){
 }
 </script>
 {% endif %}
+{% if page.title == 'Roster' %}
+<script>
+function roster(e){
+	var el = document.getElementById(e);
+	if(el.style.display == 'none'){
+		el.style.display = 'block';
+	}
+	else{
+		el.style.display = 'none';
+	}
+}
+</script>
+{% endif %}
