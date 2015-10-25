@@ -4,15 +4,6 @@ title: Roster
 permalink: /roster/
 ---
 
-<!--<h3 class="roster0">Steven Adams</h3><h3 class="roster1">12</h3>
-<p class="roster2">Position: <span class="roster3">Center</span></p>
-<p class="roster2">Height: <span class="roster3">7-0</span></p>
-<p class="roster2">Weight: <span class="roster3">250 lbs</span></p>
-<p class="roster2">Dominance: <span class="roster3">Right Hand</span></p>
-<p class="roster2">Drafted: <span class="roster3">12th (2013)</span></p>
-<p class="roster2">College/Country: <span class="roster3">University of Pittsburgh / New Zealand</span></p>
-<p class="roster2">DOB: <span class="roster3">7-20-1993</span></p>-->
-
 {% for player in site.data.roster %}
 <div class="roster0" onclick="roster('p{{ player.number }}')">
 	<div class="roster1">
