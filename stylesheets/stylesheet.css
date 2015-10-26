@@ -252,6 +252,8 @@ body{background:#fff;color:#002D62;}
 a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
 .tagline{color:#007DC3;font-size:0.9rem;text-align:center;}
 
+/* posts */
+.post-content h1{color:#F05133;border-bottom:1px solid #F05133;}
 /* schedule */
 .cal,.cal1{width:100%;position:relative;}
 .cal{overflow:hidden;margin-bottom:20px;}
