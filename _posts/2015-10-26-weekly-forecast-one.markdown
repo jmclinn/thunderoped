@@ -4,7 +4,7 @@ title:  "Thunder Weekly Forecast"
 date:   2015-10-26 11:30:00
 categories: [forecast]
 author: Ryan
-excerpt: "A forecast for the Thunder's week 10/28 - 11/1 ."
+excerpt: "A forecast for the Thunder's week 10/28 - 11/1."
 ---
 
 #Games
