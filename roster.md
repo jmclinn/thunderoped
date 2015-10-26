@@ -8,7 +8,7 @@ permalink: /roster/
 <div class="roster0" onclick="roster('p{{ player.number }}')">
 	<div class="roster1">
 		<h3 class="roster2">{{ player.name }}</h3>
-		<h1 class="roster3">{{ player.number }}</h1>
+		<h2 class="roster3">{{ player.number }}</h2>
 	</div>
 </div>
 <div id="p{{ player.number }}" style="display:none;width:100%;overflow:hidden;">
