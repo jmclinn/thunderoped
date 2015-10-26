@@ -266,6 +266,6 @@ a,a:visited{color:#007DC3;}a:active{color:#FDBB30;}a:hover{color:#F05133;}
 .roster0{border:2px solid #FDBB30;width:100%;margin-bottom:20px;cursor:pointer;}.roster0:hover{background:#FDBB30;}
 .roster1{border:2px solid #007DC3;margin:10px 3%;width:94%;background:#FFF;}
 .roster2,.roster3{position:relative;float:left;margin:20px 5%;line-height:50px;}
-.roster2{width:60%;}.roster3{width:20%;text-align:center;}
+.roster2{width:60%;}.roster3{width:20%;text-align:center;color:#F05133;}
 .roster4{position:relative;float:left;width:48%;margin:10px 1%;text-align:center;}
 .roster5{color:#F05133;border-bottom:1px solid #F05133;}
