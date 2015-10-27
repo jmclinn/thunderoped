@@ -27,7 +27,7 @@ Nick Collison might be the definition of a hustle player. Collison has never cra
 
 <img src="/content/2015-10-26/collison3.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Robert Hanashiro – USA TODAY Sports</p>
+<p class="tagline">Andy Lyons – Getty Images North America</p>
 
 Collison has never been a scoring machine in the NBA. The most points he averaged in a season was in the 2007-2008 NBA season – the last season in Seattle, for that matter. Last season he averaged only 4.1 ppg and shot just 41.9% from the field. These are both new lows, with his shooting performance being by far the worst of his career. But the good news is that the Thunder do not rely on Collison for his offense.
 
@@ -37,7 +37,7 @@ Along with countless other things that he does for the Thunder organization, Col
 
 <img src="/content/2015-10-26/collison4.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
-<p class="tagline">Andy Lyons – Getty Images North America</p>
+<p class="tagline">Steven Adams - Twitter (@RealStevenAdams)</p>
 
 With Derek Fisher settled into the head coaching role in New York City, Collison is now the resident veteran on the Thunder. The team is not a bunch of kids like it was in 2012. Guys like Russell Westbrook and Kevin Durant are now seasoned players and you have to think that being around Collison helped them grow as professionals as well.
 
