@@ -42,7 +42,3 @@ Along with countless other things that he does for the Thunder organization, Col
 With Derek Fisher settled into the head coaching role in New York City, Collison is now the resident veteran on the Thunder. The team is not a bunch of kids like it was in 2012. Guys like Russell Westbrook and Kevin Durant are now seasoned players and you have to think that being around Collison helped them grow as professionals as well.
 
 The player most like Collison on today’s roster is Mitch McGary in terms of outlook and ability and things that both players do well. However, Collison and Steven Adams have a buddy bromance that is the most fun non-basketball thing to follow for this team. Collison has taught Adams the ability to anger other big men without getting in trouble himself. Collison’s fingerprints are on the team. On a personal note – I cannot wait to hopefully one day see him healthy on the Thunder bench yet wearing a suit as a coach.  
-
-<img src="/content/2015-10-25/Ibaka 4.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
-
-<p class="tagline">Steven Adams – Twitter (@RealStevenAdams)</p>
