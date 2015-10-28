@@ -4,14 +4,14 @@ title:  "Kyle Singler Season Preview"
 date:   2015-10-27 17:50:00
 categories: [singler,preseason,preview]
 author: Jonathan
-excerpt: Kyle Singler was scouted by Sam Presti during his time at Duke. He's the role player with length that Presti likes, and so he was brought over in the trade deadline unloading of Reggie Jackson last season. When he reached OKC he was asked to slip into the starting small forward spot during a dumbster fire season plagued by unrelenting injuries. Things didn't go so well...
+excerpt: Kyle Singler was scouted by Sam Presti during his time at Duke. He's the role player with length that Presti likes, and so he was brought over in the trade deadline unloading of Reggie Jackson last season. When he reached OKC he was asked to slip into the starting small forward spot during a dumpster fire season plagued by unrelenting injuries. Things didn't go so well...
 ---
 
 <img src="/content/2015-10-26/singler1.jpg" style="width:100%;max-width:600px;display:block;margin:0 auto;"/>
 
 <p class="tagline">Rick Scuteri - USA TODAY Sports</p>
 
-Kyle Singler was scouted by Sam Presti during his time at Duke. He's the role player with length that Presti likes, and so he was brought over in the trade deadline unloading of Reggie Jackson last season. When he reached OKC he was asked to slip into the starting small forward spot during a dumbster fire season plagued by unrelenting injuries. Things didn't go so well.
+Kyle Singler was scouted by Sam Presti during his time at Duke. He's the role player with length that Presti likes, and so he was brought over in the trade deadline unloading of Reggie Jackson last season. When he reached OKC he was asked to slip into the starting small forward spot during a dumpster fire season plagued by unrelenting injuries. Things didn't go so well.
 
 Here are a few things we're looking for Kyle Singler to improve on this season:
 
