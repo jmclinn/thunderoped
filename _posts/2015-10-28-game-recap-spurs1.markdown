@@ -39,4 +39,4 @@ Durant scored 22 but struggled most of the game, and was noticeably outmatched b
 
 Westbrook finished with 33 points and 10 assists and Kanter finished with an impressive double-double of 15 points and 16 rebounds. The rest of the scoring was refreshingly balanced, with four more guys with eight points or more. 
 
-The Thunder will hope to carry some momentum form this big win into its Friday night matchup with the Orlando Magic. 
+The Thunder will hope to carry some momentum from this big win into its Friday night matchup with the Orlando Magic. 
