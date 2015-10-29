@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eyeball Test: Spurs @ Thunder"
-date:   2015-10-29 12:00:00
+date:   2015-10-29 8:00:00
 categories: [sas,notes]
 author: Jonathan
 excerpt: "The Thunder opened their season against a revamped Spurs team, at they won it at the wire. How'd they look?..."
