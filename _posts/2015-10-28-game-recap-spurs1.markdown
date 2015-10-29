@@ -7,6 +7,8 @@ author: Ryan
 excerpt: "In a game mostly controlled by the San Antonio Spurs, the Thunder was able to come out on top in the end..."
 ---
 
+### SAS 106 - OKC 112
+
 In a game mostly controlled by the San Antonio Spurs, the Thunder was able to come out on top in the end.
 
 Like most matchups between these two teams, the game stayed pretty close throughout, though it seemed as though the Spurs were in control for the majority of the game. 
