@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Game Recap: Thunder vs. Spurs"
+title:  "Game Recap: Spurs vs. Thunder"
 date:   2015-10-28 22:00:00
 category: recap
 author: Ryan
