@@ -4,7 +4,7 @@ title:  "Game Recap: Thunder vs. Magic"
 date:   2015-10-30 23:20:00
 category: recap
 author: Clay
-excerpt: "The Thunder kicked off their road season tonight against a young Magic tonight in Orlando. And it was wild..."
+excerpt: "The Thunder kicked off their road season tonight in Orlando against a young Magic team, and it was wild..."
 ---
 
 ### OKC 139 - ORL 136
@@ -13,7 +13,7 @@ Wow.
 
 Now that was a basketball game.
 
-The Thunder kicked off their road season tonight against a young Magic tonight in Orlando. And it was wild.
+The Thunder kicked off their road season tonight in Orlando against a young Magic team. And it was wild.
 
 Halloween came early when the television flashed a glimpse of Joey Crawford with the whistle. The game became even scarier as it got out of the Thunder's hands early. But even though the Magic gave it their all tonight, no one was slowing down OKC's big guns in Kevin Durant and Russell Westbrook.
 
