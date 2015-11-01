@@ -31,7 +31,7 @@ Well that just happened. I'm glad I was taking notes throughout the game, becaus
 
 - Billy Donovan had a big motivation test coming out of the halftime break. Result? The defense definitely picked up in effort to start the third. Sadly, once again that didn't last too long.
 
-- Waiter's two big fadeaways at the end of the Spurs game seemed to boost his confidence in a big way. It showed against the Magic, which isn't a good thing. Some things a better in moderation. He's so much more effective when he plays within himself.
+- Waiter's two big fadeaways at the end of the Spurs game seemed to boost his confidence in a big way. It showed against the Magic, which isn't a good thing. Some things are better in moderation. He's so much more effective when he plays within himself.
 
 - Every fast break that happens reminds me how little we've seen so far this season.
 
@@ -47,7 +47,7 @@ Well that just happened. I'm glad I was taking notes throughout the game, becaus
 
 - Monty Williams trying to corral the team back to the bench after Westbrook's crazy 3-pointer was so amusing. Good luck with that Monty.
 
-- I only have a few things to note from the two overtimes. 1. Westbrook is unstoppable. 2. Steven Adams had some super feathery clutch free throws. 3. Durant left everything on the floor. He was dead tired, but pulled out some **amazing** blocks to close out the game for an incredibly improbably Thunder win.
+- I only have a few things to note from the two overtimes. 1. Westbrook is unstoppable. 2. Steven Adams had some super feathery clutch free throws. 3. Durant left everything on the floor. He was dead tired, but pulled out some **amazing** blocks to close out the game for an incredibly improbable Thunder win.
 
 ####Eyeball Test?
 
