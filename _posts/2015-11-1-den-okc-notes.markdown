@@ -49,6 +49,6 @@ OKC needed a statement win, if not for rest purposes then to convince themselves
 
 - Good rest for the starters, sitting the entire 4th quarter, before heading to Houston without a day off.
 
-####Eyeball Test?
+#Eyeball Test?
 
 **Confident and comfortable.** 30+ assists could be something we see regularly, and it seemed so natural. The defense stole the show and brought back the deadly transition offense this team is known for. It was also good to have Ibaka back to himself.
