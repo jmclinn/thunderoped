@@ -49,4 +49,4 @@ A desperate Rockets team reawoke its rivalry with the Thunder, allowing OKC to g
 
 #Eyeball Test?
 
-**Emotional and sloppy.** I've used the word sloppy here too much for having only played 4 games. These turnover have to stop. 24 is too many to have a comfortable chance winning any game.
+**Emotional and sloppy.** I've used the word sloppy here too much for having only played 4 games. These turnovers have to stop. 24 is too many to have a comfortable chance winning any game.
