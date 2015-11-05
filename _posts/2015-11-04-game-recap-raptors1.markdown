@@ -4,7 +4,7 @@ title:  "Game Recap: Raptors vs. Thunder"
 date:   2015-11-04 23:59:00
 category: recap
 author: Trey
-excerpt: "Turnovers destroyed the Thunder again to hand them their first home loss, and second in a row..."
+excerpt: "Turnovers destroyed the Thunder again to hand them their first home loss, and second loss in a row..."
 ---
 
 ### TOR 103 - OKC 98
