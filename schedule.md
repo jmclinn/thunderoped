@@ -55,19 +55,25 @@ permalink: /schedule/
 {% assign counter = forloop.index %}
 {% if game.day %}
 	{% if game.team %}
-	<div class="cal0" onclick="gametime(1{{ counter }})" style="cursor:pointer;">
+	<div class="cal0" onclick="gametime('1{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away1{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home1{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away1{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home1{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time1{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time1{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan1{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan1{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
@@ -91,19 +97,25 @@ permalink: /schedule/
 {% assign counter = forloop.index %}
 {% if game.day %}
 	{% if game.team %}
-	<div class="cal0" onclick="gametime(2{{ counter }})" style="cursor:pointer;">
+	<div class="cal0" onclick="gametime('2{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away2{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home2{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away2{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home2{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time2{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time2{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan2{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan2{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
@@ -127,19 +139,25 @@ permalink: /schedule/
 {% assign counter = forloop.index %}
 {% if game.day %}
 	{% if game.team %}
-	<div class="cal0" onclick="gametime(3{{ counter }})" style="cursor:pointer;">
+	<div class="cal0" onclick="gametime('3{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away3{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home3{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away3{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home3{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time3{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time3{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan3{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan3{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
@@ -163,19 +181,25 @@ permalink: /schedule/
 {% assign counter = forloop.index %}
 {% if game.day %}
 	{% if game.team %}
-	<div class="cal0" onclick="gametime(4{{ counter }})" style="cursor:pointer;">
+	<div class="cal0" onclick="gametime('4{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away4{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home4{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away4{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home4{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time4{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time4{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan4{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan4{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
@@ -199,19 +223,25 @@ permalink: /schedule/
 {% assign counter = forloop.index %}
 {% if game.day %}
 	{% if game.team %}
-	<div class="cal0" onclick="gametime(5{{ counter }})" style="cursor:pointer;">
+	<div class="cal0" onclick="gametime('5{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away5{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home5{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away5{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home5{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time5{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time5{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan5{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan5{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
@@ -235,19 +265,25 @@ permalink: /schedule/
 {% assign counter = forloop.index %}
 {% if game.day %}
 	{% if game.team %}
-	<div class="cal0" onclick="gametime(6{{ counter }})" style="cursor:pointer;">
+	<div class="cal0" onclick="gametime('6{{ counter }}')" style="cursor:pointer;">
  	  <img src="/content/schedule/days/game.png" class="cal1" />
-	  {% if game.home %}
+	  {% if game.home == 'h' %}
  	  <img id="away6{{ counter }}" class="cal2" src="/content/schedule/teams/{{ game.team }}.png" />
 	  <img id="home6{{ counter }}" class="cal3" src="/content/schedule/teams/okc.png" />
 	  {% else %}
  	  <img id="away6{{ counter }}" class="cal2" src="/content/schedule/teams/okc.png" />
 	  <img id="home6{{ counter }}" class="cal3" src="/content/schedule/teams/{{ game.team }}.png" />
 	  {% endif %}
-	  {% if game.time %}
+	  {% if game.scora %}
+	  <!-- away score -->
+	  <img id="time6{{ counter }}" class="cal2" src="/content/schedule/scores/{{ game.scora }}.png" style="visibility:hidden;" />
+	  {% elsif game.time %}
 	  <img id="time6{{ counter }}" class="cal2" src="/content/schedule/tv/{{ game.time }}.png" style="visibility:hidden;" />
 	  {% endif %}
-	  {% if game.chan %}
+	  {% if game.scorh %}
+	  <!-- home score -->
+	  <img id="chan6{{ counter }}" class="cal3" src="/content/schedule/scores/{{ game.scorh }}.png" style="visibility:hidden;" />
+	  {% elsif game.chan %}
 	  <img id="chan6{{ counter }}" class="cal3" src="/content/schedule/tv/{{ game.chan }}.png" style="visibility:hidden;" />
 	  {% endif %}
 	</div>
