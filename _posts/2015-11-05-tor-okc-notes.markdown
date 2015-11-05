@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eyeball Test: Toronto @ Thunder"
+title:  "Eyeball Test: Raptors @ Thunder"
 date:   2015-11-05 16:30:00
 categories: [tor,notes]
 author: Jonathan
