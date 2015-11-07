@@ -7,7 +7,7 @@ author: Jonathan
 excerpt: "On national television the Thunder started strong against Chicago, but late in the game bad defense, stagnation, and a rejuvenated Derrick Rose led to another disappointing loss..."
 ---
 
-### TOR 103 - OKC 98
+### OKC 98 - CHI 104
 
 On national television the Thunder started strong against Chicago, but late in the game bad defense, stagnation, and a rejuvenated Derrick Rose led to another disappointing loss.
 
