@@ -2,9 +2,9 @@
 layout: post
 title: "Game Recap: Thunder vs. Suns"
 date: 2015-11-09 21:17:00
-category: recap
+category: [phx,recap]
 author: Trey
-except: "Thunder ends 3 game losing streak, blow out Phoenix Suns 124-103"
+excerpt: "Thunder ends 3 game losing streak, blow out Phoenix Suns 124-103..."
 ---
 
 ### OKC 124 - PHO 103
