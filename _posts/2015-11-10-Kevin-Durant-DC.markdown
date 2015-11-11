@@ -1,3 +1,12 @@
+---
+layout: post
+title: "KD visits DC"
+date: 2015-11-10 19:20:00
+category: [durant,oped]
+author: Trey
+excerpt: "Everybody in the world knows that Kevin Durant is going to be a free agent this summer. The NBA knows it. NBA fans know it. Oklahoma City knows it. Yet, the continual media fascination with his impending free agency is amazing..."
+---
+
 Everybody in the world knows that Kevin Durant is going to be a free agent this summer. The NBA knows it. NBA fans know it. Oklahoma City knows it. Yet, the continual media fascination with his impending free agency is amazing. 
 
 Kevin Durant recently said that the Washington Wizards fans openly recruiting him during games when Oklahoma City - his current team, don't forget - travels to the east coast. Yes, Durant is from DC and he loves his home town. Yes, he can choose to play anywhere in the world he wants next season. The media is so dead set on Durant being Lebron James and returning home that they can't get out of their own way when discussing it.
