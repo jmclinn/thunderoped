@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eyeball Test: Suns @ Thunder"
-date:   2015-11-09 18:20:00
+date:   2015-11-11 19:33:00
 categories: [was,notes]
 author: Jonathan
 excerpt: "The Thunder build on their good habits and blow out the Wizards to fend off the national media drooling over a Durant homecoming..."
