@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eyeball Test: Suns @ Thunder"
+title:  "Eyeball Test: Thunder @ Wizards"
 date:   2015-11-11 19:33:00
 categories: [was,notes]
 author: Jonathan
