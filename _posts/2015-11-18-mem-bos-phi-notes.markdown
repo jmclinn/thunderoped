@@ -2,7 +2,7 @@
 layout: post
 title:  "Eyeball Test Roundup: New York, Memphis, Boston, Philadephia"
 date:   2015-11-22 17:30:00
-categories: [mem,bos,phi,notes]
+categories: [nyk,mem,bos,phi,notes]
 author: Jonathan
 excerpt: "The past week the Thunder have dealt with the absence Kevin Durant, and any good progress seems to have taken a step back..."
 ---
