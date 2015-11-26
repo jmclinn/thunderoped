@@ -1,7 +1,8 @@
 ---
-layout: "This Week in Review"
+layout: post
+title: "This Week in Review"
 date: 2015-11-26 9:15:00 
-categories: recap
+categories: [review]
 author: Trey
 excerpt: "Thunder bounce back, have solid week"
 ---
