@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thunder Weekly Forecast"
-date:   2015-11-23 07:30:00
+date:   2015-11-29 07:30:00
 categories: [forecast]
 author: Trey
 excerpt: "A forecast for the Thunder's week 11/29 - 12/5."
