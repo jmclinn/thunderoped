@@ -11,11 +11,11 @@ excerpt: "A forecast for the Thunder's week 11/29 - 12/5."
 
 ### Monday, November 30, 2015, at 7:00 PM CST - at Atlanta Hawks
 
-This is another game against a former key Thunder player. Thabo Sefolosha is playing about 23 minutes per game for the Hawks and turning in a solid season. Serge Ibaka will have his hands full going up against Paul Milsap who is averaging a near double-double 19 games into the season. Milsap is putting up 18.2 points per game and pulling down 9.5 rebounds per game. 
+This is another game against a former key Thunder player. Thabo Sefolosha is playing about 23 minutes per game for the Hawks and turning in a solid season. Serge Ibaka will have his hands full going up against Paul Milsap who is averaging a near double-double 19 games into the season. Milsap is putting up 18.2 points per game and pulling down 9.5 rebounds per game. This game will be shown on FS Oklahoma. 
 
 ### Thursday, December 3, 2015, at 6:00 PM CST - at Miami Heat
 
-The rosters are significantly different but the wounds still run deep for Oklahoma City fans. Any game against the Miami Heat brings back cringe inducing feelings. Lebron James has moved on to Cleveland, but Dwyane Wade and Chris Bosh remain from the 2012 team that defeated the Thunder in the NBA Finals. Bosh is bordering on averaging a double-double by scoring 17.5 points per game and cleaning the class for an even 9 rebounds per game. Wade is beginning to show his age, yet still remains dangerous. He is scoring 17.1 points per game (would be his second lowest average of his career) and has seen his rebounds and assists per game decline over the last four seasons. 
+The rosters are significantly different but the wounds still run deep for Oklahoma City fans. Any game against the Miami Heat brings back cringe inducing feelings. Lebron James has moved on to Cleveland, but Dwyane Wade and Chris Bosh remain from the 2012 team that defeated the Thunder in the NBA Finals. Bosh is bordering on averaging a double-double by scoring 17.5 points per game and cleaning the class for an even 9 rebounds per game. Wade is beginning to show his age, yet still remains dangerous. He is scoring 17.1 points per game (would be his second lowest average of his career) and has seen his rebounds and assists per game decline over the last four seasons. This game will be televised on TNT and FS Oklahoma.
 
 # Three Things to Watch for:
 
