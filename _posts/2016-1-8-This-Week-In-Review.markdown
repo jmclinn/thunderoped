@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in Review"
-date: 2016-1-8 17:00:00 
+date: 2016-01-08 17:00:00 
 categories: [review]
 author: Trey
 excerpt: "Thunder split the week"
