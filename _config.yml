@@ -16,7 +16,7 @@ markdown: kramdown
 
 # Permalinks
 #permalink: pretty
-permalink: /:month-:day-:year/:title
+permalink: /:month-:day-:year/:title/
 
 # Excerpts
 excerpt_separator: "//ex//"
