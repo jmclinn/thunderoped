@@ -24,9 +24,9 @@ excerpt: "Thunder go undefeated in first week of season"
   
 ## Oklahoma City Thunder 113-96 Los Angeles Lakers
 
-     The Thunder moved to 3-0 in the opening week after defeating the LA Lakers on the first Sunset Sunday of the season. This was the first game in which the Thunder looked like a complete team.
-    Russell Westbrook logged his second triple-double of the season in an efficient fashion. He scored 33, grabbed 12 rebounds, and dished out an impressive 16 assists. Victor Oladipo still hasn't found his shooting touch but he did manage to score 20 points. Steven Adams recorded his first double-double of the season on 14 points and 12 rebounds. Enes Kanter scored 16 points on an incredibly efficient 8-11 shooting and grabbed 6 rebounds in just 22 minutes of game time. 
-    Kanter and Domantas Sabonis were the only Thunder players to have a negative plus/minus score. Ersan Ilyasova managed a +8 despite missing every shot he took and failing to score a single point. 
+  The Thunder moved to 3-0 in the opening week after defeating the LA Lakers on the first Sunset Sunday of the season. This was the first game in which the Thunder looked like a complete team.
+  Russell Westbrook logged his second triple-double of the season in an efficient fashion. He scored 33, grabbed 12 rebounds, and dished out an impressive 16 assists. Victor Oladipo still hasn't found his shooting touch but he did manage to score 20 points. Steven Adams recorded his first double-double of the season on 14 points and 12 rebounds. Enes Kanter scored 16 points on an incredibly efficient 8-11 shooting and grabbed 6 rebounds in just 22 minutes of game time. 
+  Kanter and Domantas Sabonis were the only Thunder players to have a negative plus/minus score. Ersan Ilyasova managed a +8 despite missing every shot he took and failing to score a single point. 
    
 ## Notes
 
@@ -35,3 +35,6 @@ excerpt: "Thunder go undefeated in first week of season"
   There is good news though, Thunder fans. Victor Oladipo and Steven Adams both re-signed with the team. Oladipo signed a 4 year/$84 million contract extension, while the Big Kiwi signed for 4 years/$100 million. 
   
   Forever and always, Thunder up!
+  
+  
+  P.S. Salutations, mate! Fare thee well.
