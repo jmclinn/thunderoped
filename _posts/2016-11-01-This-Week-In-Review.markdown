@@ -24,10 +24,10 @@ excerpt: "Thunder go undefeated in first week of season"
   
 ## Oklahoma City Thunder 113-96 Los Angeles Lakers
 
-    The Thunder moved to 3-0 in the opening week after defeating the LA Lakers on the first Sunset Sunday of the season. This was the first game in which the Thunder looked like a complete team.
-    Russell Westbrook logged another triple-double (2) in an efficient fashion. He scored 33 (11-21; 5-6), grabbed 12 rebounds, and dished out an impressive 16 assists. Victor Oladipo still hasn't found his shooting touch but he did manage to score 20 points. Steven Adams recorded his first double-double of the season on 14 points and 12 rebounds. Enes Kanter scored 16 points on an incredibly efficient 8-11 shooting and grabbed 6 rebounds in just 22 minutes of game time. 
-    Kanter and Domantas Sabonis were the only Thunder players to have a negative plus/minus score. Ersan Ilyasova managed a +8 despite missing every shot he took (0-6; 0-5) and failing to score a single point. 
-    
+     The Thunder moved to 3-0 in the opening week after defeating the LA Lakers on the first Sunset Sunday of the season. This was the first game in which the Thunder looked like a complete team.
+    Russell Westbrook logged his second triple-double of the season in an efficient fashion. He scored 33, grabbed 12 rebounds, and dished out an impressive 16 assists. Victor Oladipo still hasn't found his shooting touch but he did manage to score 20 points. Steven Adams recorded his first double-double of the season on 14 points and 12 rebounds. Enes Kanter scored 16 points on an incredibly efficient 8-11 shooting and grabbed 6 rebounds in just 22 minutes of game time. 
+    Kanter and Domantas Sabonis were the only Thunder players to have a negative plus/minus score. Ersan Ilyasova managed a +8 despite missing every shot he took and failing to score a single point. 
+   
 ## Notes
 
   The Thunder have had trouble finding the stroke from beyond the three point line. After the first 3 games of the season, the Thunder are shooting a dismal .290 from deep. 
