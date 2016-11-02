@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming This Week"
+title: "Coming This Week (11/2-11/9)"
 date: 2016-11-02 14:00:00 
 categories: [preview]
 author: Trey
