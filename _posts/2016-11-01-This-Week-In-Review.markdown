@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Week In Review (10/25-11-1)
+title: This Week In Review (10/25-11/1)
 date: 2016-11-01 13:00:00
 categories: [review]
 author: Trey
