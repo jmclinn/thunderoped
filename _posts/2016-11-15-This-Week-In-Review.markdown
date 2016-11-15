@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Week In Review (11/9-11/16)
-date: 2016-11-11 13:00:00
+date: 2016-11-16 13:00:00
 categories: [review]
 author: Trey
 excerpt: "Thunder start dangerous slide"
